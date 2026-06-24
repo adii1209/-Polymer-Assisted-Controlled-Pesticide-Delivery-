@@ -1,5 +1,3 @@
-# -Polymer-Assisted-Controlled-Pesticide-Delivery-
-ML framework to predict pesticide release from polymer carriers using LightGBM, nested cross-validation and SHAP interpretability adapted from drug delivery research for precision agriculture.
 
 # 🌱 Polymer-Assisted Controlled Pesticide Delivery
 ### A Machine Learning Framework for Release Profiling
@@ -222,6 +220,4 @@ Alternatively, exclude large `.pkl` files from the repo and share them via Googl
 2. Zhang et al. (2023). *Research progress of a pesticide polymer-controlled release system.* Polymers, 15(13), 2810.
 3. Zanino et al. (2023). *Polymers as controlled delivery systems in agriculture.* European Polymer Journal, 203, 112665.
 
----
 
-*This project is submitted in partial fulfillment of 23CHY251: Polymers for Electronics.*
